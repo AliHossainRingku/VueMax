@@ -1,0 +1,17 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.container{
+    background: #EDEDED;
+}
+
+.goal{
+    
+    margin: 50px auto;
+    text-align: center;
+}
+.goal input,button{
+    padding: 5px;
+    font-size: 18px;
+}
